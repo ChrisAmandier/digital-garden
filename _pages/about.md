@@ -9,7 +9,7 @@ permalink: /about
 ## More about this digital garden
 
 ### My notetaking methods
-As a researcher, I use the [zettlekasten method](https://en.wikipedia.org/wiki/Zettelkasten) of taking notes. Essentally, zettlekasten is an atomized, non-linear notetaking style that encourages you to develop original thoughts and make novel connections. For more information, I recommend the book [*How to Take Smart Notes* by Sönke Ahrens](https://www.soenkeahrens.de/en/takesmartnotes).
+As a researcher, I use the [zettlekasten method](https://en.wikipedia.org/wiki/Zettelkasten) of taking notes. Essentially, zettlekasten is an atomized, non-linear notetaking style that encourages you to develop original thoughts and make novel connections. For more information, I recommend the book [*How to Take Smart Notes* by Sönke Ahrens](https://www.soenkeahrens.de/en/takesmartnotes).
 
 I keep my personal knowledge database in [Obsidian](https://obsidian.md), a free notetaking software that works from locally-stored markdown files, which means that your notes aren't locked into proprietary software and you can take 'em with you if you ever decide to leave. If you're looking to build a second brain, Obsidian is a great place to do that.
 
