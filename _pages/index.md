@@ -25,11 +25,14 @@ permalink: /
 </p>
 
 <p>
-Since these notes are written for me first and other audiences second, you can expect to find plenty of broken links to unshared notes, bits that may make sense to no one but myself, typos, and other mistakes.</p>
+Since these notes are written for myself first and other audiences second, you can expect to find plenty of broken links to unshared notes, bits that may make sense to no one but myself, typos, and other mistakes.</p>
 
-<p> That's all as it should be—I'm here to learn in public, and I'm always evolving my thoughts and ideas.
+<p> That's all as it should be—I'm here to learn in public, and I'm always refining my thoughts and ideas.
 </p>
 
+<p> 
+If you have thoughts or feedback, feel free to write to me at buriedsecretspodcast@gmail.com.
+</p>
 
 <strong>Recently updated notes</strong>
 
