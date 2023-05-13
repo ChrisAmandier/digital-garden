@@ -10,11 +10,10 @@ permalink: /
 
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+ <strong> This is the digital garden of Chris Amandier.</strong> I'm a paranormal researcher, writer, artist, and the host of <a href="https://www.buriedsecretspodcast.com">Buried Secrets Podcast</a>. I write about paranormal and occult weirdness, history, tech, creativity, and nostalgia.
 </p>
 
 <p>
-<strong> This is the digital garden of Chris Amandier.</strong> I'm a paranormal researcher, writer, artist, and the host of Buried Secrets Podcast. I write about paranormal and occult weirdness, history, tech, creativity, and nostalgia.
 </p>
 
 <p>
