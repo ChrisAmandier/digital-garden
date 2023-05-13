@@ -1,5 +1,6 @@
+Related: [[1897 airship sightings and the Aurora, Texas, crash episode]]
 
-The 1897 UFO Flap in North Texas
+[Link to the blog post version of this](https://www.buriedsecretspodcast.com/the-1897-ufo-flap-in-north-texas/)
 
 In 1897, a series of mysterious airships were sighted all around the United States. This is a look at the flap in general, with a particular focus on some of the North Texas UFO sightings.
 
@@ -7,7 +8,6 @@ Highlights include:
 - The Dallas-Fort Worth area as a "window area" with heighted strange activity
 - A glimpse into how Victorian-era people responded to UFOs
 - Lots of bearded aliens
-
 
 ## North Texas Airships
 Since doing the last episode, I started reading the book _Operation Trojan Horse_ by John Keel. I haven’t finished it yet, but I did pore through the chapter that was relevant to the mystery airships of 1897. Keel calls out the high level of UFO activity in Texas—specifically in North Texas—multiple times.
@@ -150,5 +150,5 @@ I also found a somewhat unique description of the pilot’s headstone. This is f
 
 
 [[1897 airship reports per Jacques Vallee]]
-[[episode script]] [[podcast scripts]]
+[[podcast scripts]]
 [[Operation Trojan Horse by John Keel]]

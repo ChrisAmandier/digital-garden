@@ -1,0 +1,10 @@
+In _Operation Trojan Horse_, John Keel talks about how around that time in 1897, the technology just wasn’t there to make the sorts of crafts and dirigibles that people were reporting seeing.
+
+per [[Operation Trojan Horse by John Keel]]:
+> A French engineer, Henri Giffard, built the first controllable dirigible in 1852. Powered by a steam engine, it was 144 feet long and whizzed through the sky at a breathtaking seven miles per hour. Paul Haenlein, a German, built a gas-powered dirigible in 1872. And a Hungarian named David Schwartz constructed the first metal dirigible and took off from Berlin on November 13, 1897. He managed to fly several miles before a gas leak brought him down.
+
+> While these pioneers were struggling to go a few miles in their slow, clumsy, cigar-shaped machines, thousands of people around the world were reporting the presence of larger, faster dirigible-shaped objects. Astronomers, such as Trouvelot of the Observatory of Meudon, first claimed notice of the things in the early 1870’s. They were high in the atmosphere, he said, and didn’t resemble anything within his experience. Trouvelot described his August 29, 1871, sighting in L ‘Annee Scientifique and observed that one of a formation of objects appeared to descend “like a disk falling in water.” This was the first description of the “falling-leaf motion” that appears in so many modern reports and has even been recorded on film.
+
+> Newspaper accounts of these aerial objects were frequent and widespread during the last three decades of the nineteenth century. But the dam really broke in 1896-97 when giant cigars were reportedly viewed by thousands of people as they flew over many of the major cities on earth. Leading newspapers of the day carried extensive descriptions and drawings of them. Their mysterious journeys created the first important UFO flap and inspired H. G. Wells to write his classic novel, The War of the Worlds.
+
+[[1897 airship flap]]  [[airships]]

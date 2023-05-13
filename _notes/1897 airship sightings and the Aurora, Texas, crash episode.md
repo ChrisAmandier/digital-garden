@@ -1,12 +1,6 @@
+Related: [[1897 UFO Flap in North Texas]]
 
-
-[[1897 Denton Airships episode]]
-
-A look at the Aurora, Texas, UFO crash, one of many sightings during the mystery airship flap of 1897.
-[or]
-A look at a 19th-century UFO crash in Aurora, Texas.
-
-A UFO crash in Aurora, Texas
+## A UFO crash in Aurora, Texas
 
 A look at the Aurora, Texas, UFO crash, one of many sightings during the mystery airship flap of 1897.
 
@@ -15,7 +9,7 @@ Highlights include:
 - urban legends and uncertain truths
 - Jacques Vallée
 
-This is the written version of an episode of Buried Secrets podcast, which you can listen to here or on your podcatcher of choice.
+[Link to the blog post version of this.](https://www.buriedsecretspodcast.com/a-ufo-crash-in-aurora-texas/)
 
 Last year, I did [a podcast series about the story of the famous Goatman’s Bridge or Old Alton Bridge](https://www.buriedsecretspodcast.com/goatmans-bridge-series-sources-old-alton-bridge/) in Denton County, Texas, where I grew up. While I was doing that research, I came across a lot of weirdness in Denton. The area is known for being haunted, I already knew there were multiple ghost tours that operate in the city of Denton (my mom's taken one of the tours and reported back that it was great!) So the hauntings weren’t that surprising to me. However, I was really fascinated by one unexpected detail: Denton was supposedly host to a number of mysterious airship sightings in 1897. At the time, I was deep in the Goatman's Bridge series so couldn't look into it further; I made a note of it for a future episode and moved on. That was a year or so ago.
 
@@ -148,8 +142,10 @@ Whether or not it's true, it's still a fascinating bit of a small town's history
 
 
 
-## [[1897 Denton airships episode Appendix Sightings from Passport to Magonia by Jacques Vallee]]
+## [[1897 North Texas airships episode Appendix-Sightings from Passport to Magonia by Jacques Vallee]]
 
 
 
-[[episode script]] [[podcast scripts]]
+[[podcast scripts]]
+[[airships]]
+[[1897 airship flap]]

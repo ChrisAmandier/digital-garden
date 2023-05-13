@@ -1,4 +1,4 @@
-[[1897 airship sightings and the Aurora, Texas, crash]]
+I prepared this while working on the episode about the [[1897 airship sightings and the Aurora, Texas, crash episode]] and [[1897 UFO Flap in North Texas]]
 from [[Passport to Magonia by Jacques Vallee]]
 
 ### Generally commentary from Jacques Vallee
@@ -72,3 +72,5 @@ More info on the Rockland sighting:
 > Dallas (Texas). A man in a car observed a red and blue light, thought it came from a police car, then was passed by a huge, orange object flying at ground level. (Atic)
 
 
+[[1897 airship flap]]
+[[airships]]

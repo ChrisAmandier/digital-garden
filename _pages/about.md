@@ -4,8 +4,6 @@ title: About
 permalink: /about
 ---
 
-
-
 ## More about this digital garden
 
 ### My notetaking methods
@@ -15,9 +13,9 @@ I keep my personal knowledge database in [Obsidian](https://obsidian.md), a free
 
 I've been following zettlekasten practices since September 2022, though I often find myself slacking off. 
 
-For zettlekasten, you're supposed to put concepts into your own words and synthesize your own thoughts based on what you've read. That's the real secret sauce of zettlekasten.
+For zettlekasten, you're supposed to put concepts into your own words and synthesize your thoughts based on what you've read. That's the real secret sauce of the method. By the time you're done taking notes, you've already done the research and a lot of the writing for whatever you create, be they blog posts, articles, podcast episodes, or books.
 
-But, especially when you're taking notes on the fly, it's easy to just paste a quote of what you're reading into your notes and move on. It's better than just *not* making a note of what you've read, but it prevents your notes from being as useful as they could be.
+But, especially when you're taking notes on the fly, it's easy to paste a quote of what you're reading into your notes and move on. It's better than *not* making a note of what you've read, but it prevents your notes from being as useful as they could be.
 
 That's where this digital garden comes in. 
 
@@ -26,19 +24,19 @@ My goal is to have a regular (weekly or weekly-ish) workflow of revising and ref
 ## My workflow
 I could have launched this digital garden using Obsidian Publish, but that costs $8/month. I already pay monthly hosting fees for my website and podcast, so I wasn't exactly eager to add to that. Also, I wanted a more manual solution. Though you can apparently pick and choose which notes you want to make public, that just felt like . . . too much room for error . . . for me, since I have plenty of personal notes in my vault.
 
-Instead, I went with a more manual approach:
+Instead, I went with this approach (more info about the technical aspects in the next section):
 
 1) I made a folder in my Obsidian vault called "evergreen-to share"
 
 2) When I've cleaned a note up enough to feel good about sharing them, I move the markdown file there.
 
-3) I sort that folder by date modified, identify which notes I've modified since the last update, and then copy them into the local github folder.
+3) I sort that folder by date modified, identify which notes I've changed or added since the last update, and then copy them into the local github folder.
 
 4) I update the garden using the github desktop app.
 
 ### Technical information
-If you're considering making your own digital garden, it's very easy to do—you don't even need to know how to code. This digital garden was created using a template; check out this [step-by-step guide explaining how to set this up from scratch from the creator](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). I followed the instructions in [this YouTube video](https://www.youtube.com/watch?v=kg-9n_A4Tf0) to set it up. 
+If you're considering making your own digital garden, it's very easy to do—you don't even need to know how to code. This digital garden was created using a template; check out this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). I followed the instructions in [this YouTube video](https://www.youtube.com/watch?v=kg-9n_A4Tf0) to set it up. 
 
 It took me under an hour and it was free. This is hosted on github, so I'm not even paying a hosting fee. 
 
-Technically I paid $8 to get the domain name of chrisdigitalgarden.com. I didn't have to do that. I coulda just stayed with the netlify subdomain, but I love collecting domain names apparently. (Okay, that's not actually why I bought the domain. I purchased it as a hedge against link rot. If I ever move to a different solution for hosting this garden, I want to be able to keep the same domain name. That way, I can hopefully confidently link to this from my blog without worrying about creating a trail of dead links.)
+Technically I paid $8 to get the domain name of chrisdigitalgarden.com. I didn't have to do that. I coulda just stayed with the netlify subdomain, but I love collecting domain names, apparently. (Alright, that's not actually why I bought the domain. I purchased it as a hedge against link rot. If I ever move to a different solution for hosting this garden, I want to be able to keep the same domain name. That way, I can link to this from my blog without worrying about creating a trail of dead links. You know, as long as I keep paying the annual subscription for the domain.)

@@ -1,5 +1,16 @@
-[[1897 Denton Airships episode]]
-[[1897 airship sightings and the Aurora, Texas, crash]]
+The excerpt below is just some of the stuff about the 1897 airship reports in [[Passport to Magonia by Jacques Vallee]]. 
+
+I like that he called these sightings a "missing link" between folkloric visions and weirdness, and 20th century UFO sightings.
+
+For more info:
+[[1897 airship sightings and the Aurora, Texas, crash episode]]
+[[1897 airship flap]]
+[[1897 airship sightings and the Aurora, Texas, crash episode]]
+[[1897 North Texas airships episode Appendix-Sightings from Passport to Magonia by Jacques Vallee]]
+[[Operation Trojan Horse by John Keel]]
+[[in 1897, the technology wasn't there to make quick-moving air craft and dirigibles]]
+[[Thomas Edison on the UFO flap of 1897]]
+
 
 from [[Passport to Magonia by Jacques Vallee]] (there are way more reports, this is just some of his writing about it):
 > It was a very great wonder, a sign, in heaven indeed, the marvelous airship that flew over the United States in the spring of 1897. And the rediscovery of the remarkable wave of reports it generated has provided a crucial missing link between the apparitions of older days and modern saucer stories.
@@ -12,7 +23,7 @@ from [[Passport to Magonia by Jacques Vallee]] (there are way more reports, this
 > 
 > The occupants of the airship were as variously described as arc UFO operators. Several reports could be interpreted to mean that dwarfs were among them, but it was not—to my present knowledge, at least—stated in so many words by witnesses. Alexander Hamilton says that the beings were the strangest he had ever seen, and that he did not care to sec them again. I am not aware of any detailed portrait of the creatures by the witnesses in the Leroy case. They were "hideous people": two men, a woman, and three "children," jabbering together.
 > 
-> All the operators who engaged in discussions with human witnesses were indistinguishable from the average American population of the time, This, for instance, is the experience related by Captain James Hooton (described in the Arkansas Gazette as "the well-known Iron Mountain railroad conductor"):7
+> All the operators who engaged in discussions with human witnesses were indistinguishable from the average American population of the time, This, for instance, is the experience related by Captain James Hooton (described in the Arkansas Gazette as "the well-known Iron Mountain railroad conductor"):
 > 
 > I had gone down to Texarkana to bring back a special, and knowing that I would have some eight to ten hours to spend in Texarkana, I went to I Ionian (Arkansas) to do a little hunting. It was about 3 o'clock in the afternoon when I reached that place. The sport was good, and before I knew it, it was after 6 o'clock when I started to make my way back toward the railroad station. As I was tramping through the bush my attention was attracted by a familiar sound, a sound for all the world like the working of an air pump on a locomotive.
 > 
@@ -29,8 +40,5 @@ from [[Passport to Magonia by Jacques Vallee]] (there are way more reports, this
 > "All ready, sir," someone called out, when the party all disappeared below. I observed that just in front of each wheel a two-inch tube began to spurt air on the wheels and they commenced revolving. The ship gradually arose with a hissing sound. The aeroplanes suddenly sprang forward, turning their sharp end skyward, then the rudders at the end of the ship began to veer to one side and the wheels revolved so fast that, one could scarcely see the blades. In less time than it takes to tell you, the ship had gone out of sight.
 > 
 > Captain Hooton adds that he could discover no bell or bell rope about the ship and was greatly shocked by this detail, since he thought "every well regulated air locomotive should have one." He left a detailed drawing of the machine.
-
-
-[[1897 airship sightings and the Aurora, Texas, crash]]
 
 
