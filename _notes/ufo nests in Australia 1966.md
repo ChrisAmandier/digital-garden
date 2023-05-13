@@ -1,0 +1,20 @@
+Stories of "nests" of dead [[reeds]], [[grass]], and other plant life near where [[UFO]]s have landed.
+
+from [[Passport to Magonia by Jacques Vallee]]:
+> Six months earlier, a rash of similar sightings had made headlines in Australia. "More flying saucer nests!" was the big news on the front page of the Sydney Sun-Herald for January 23, 1966. Three nests had been discovered in Queensland, circular clearings of dead reeds, surrounded by green reeds. Hundreds of sightseers were searching for more by the time the reports were published.
+> 
+> On January 19, 1966, at 9:00 A.M., a twenty-seven-year-old banana-grower, George Pedley, was driving his tractor in the vicinity of a swamp called Horseshoe Lagoon when he suddenly heard a loud hissing noise. It "sounded like air escaping from a lire," he said. Then, twenty-five yards in front of him, he saw a machine rising from the swamp. It was blue-gray, about twenty-live feet across and nine feet high. It was spinning and rose to about sixty feet before moving off "It was all over in a few seconds; it moved at terrific speed," said Pedley. Then he found I lie first nest, with reeds flattened in a clockwise direction.
+> 
+> The Sydney Sun-Herald sent a reporter, Ben Davie, to investigate the sighting, and it was discovered that dozens of people in the area had seen strange saucerlike craft similar to the one reported by Pedley, most of them before his sighting. Davie found a total of five nests and published the following description:
+>
+>> I saw clearings in the reeds where "they" took ofl; and it was as everyone described it. In a circle roughly thirty feet in diameter reeds had been cut and flattened in a clockwise direction. One of the nests is a floating platform of clotted roots and weeds, apparently tom by tremendous force from the mud bottom beneath five feet of water.
+> 
+> The second and third nests had been found, respectively, by Tom Warren, a cane farmer of Euramo, and Mr. Penning, a Tully schoolteacher. They were about twenty-five yards from the first one, but hidden by dense scrub. In the third nest, which seemed quite recent, the reeds were flattened in a counterclockwise direction. All the reeds were dead, but they had not been scorched or burned. A patch of couch grass, about four feet square and three feet from the boundary of the first disk, had been clipped at water level, thereby adding a new clement of mystery. Altogether, the rings varied in diameter from eight to thirty feet. In all but the smallest, the reeds had been flattened in a clockwise direction.
+> 
+> Needless to say, policemen collected samples for tests, scientists came with geiger counters, and the Royal Australian Air Force Intelligence people were all over the place. Rumors circulated blaming the Soviets for using the vast open spaces of Australia to develop scientific ideas one or two centuries ahead of those of flic Americans. Why the Soviets could not conduct their secret testing in the vast open spaces of Siberia was not disclosed.
+> ...
+> Fortunately, there were several natural explanations for the sighting or the nests, although only one hypothesis accounted for both. The latter was suggested by a Sydney Sun-Herald reader on January 30. He believed the "outer-space" panic in Queensland was caused by a "tall shy bird with a blue body and red markings on the head." It was either a type of brolga or a blue heron, but the man did not know the correct scientific name. Many times, as he wandered barefooted through the bush, he said, he had seen the birds dancing, but they flew away at high speed before he could reach them. "They would resemble a vaporous blue cloud and would certainly make a whirring sound in flight." Unfortunately for this pretty and imaginative theory, it got no backing from the Australian Museum. Museum ornithologist H. J. Disney thought the brolgas could not make circular depressions of symmetrical design. He was similarly skeptical about the "bald-headed coot theory" advanced by another man, Gooloo-gong resident Ken Adams. "I've never heard of this habit by the bird," Disney said.
+
+
+
+[[faerie ring]] [[magic circle]] [[paranormal bird]]
