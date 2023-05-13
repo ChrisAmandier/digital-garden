@@ -16,23 +16,17 @@ permalink: /
 <p>
 </p>
 
-<p>
-  If you want my more refined (though still ever-evolving) thoughts, check out my <a href="https://www.buriedsecretspodcast.com/listen/">podcast</a> or <a href="https://www.buriedsecretspodcast.com/tag/blog/">blog</a>. These are my notes. They're written for me, first and foremost, but I've decided to share them with the public to 1) force myself to take better, more rigorous notes and revisit them often, and 2) share what I'm learning about with fellow researchers.
-</p>
 
-<p>
-  If you decide to reference any of my research, please be sure to attribute it to me.
-</p>
+If you want my more refined (though still ever-evolving) thoughts, check out my <a href="https://www.buriedsecretspodcast.com/listen/">podcast</a> or <a href="https://www.buriedsecretspodcast.com/tag/blog/">blog</a>. These are my notes. They're written for me, first and foremost, but I've decided to share them with the public to 1) force myself to take better, more rigorous notes and revisit them often, and 2) share what I'm learning about with fellow researchers.
 
-<p>
-Since these notes are written for myself first and other audiences second, you can expect to find plenty of broken links to unshared notes, bits that may make sense to no one but myself, typos, and other mistakes.</p>
+✔️ If you decide to reference any of my research, please be sure to attribute it to me.
 
-<p> That's all as it should be—I'm here to learn in public, and I'm always refining my thoughts and ideas.
-</p>
+✍️ Since these notes are written for myself first and other audiences second, you can expect to find plenty of broken links to unshared notes, bits that may make sense to no one but myself, typos, and other mistakes.
 
-<p> 
-If you have thoughts or feedback, feel free to write to me at buriedsecretspodcast@gmail.com.
-</p>
+🧠 That's all as it should be—I'm here to learn in public, and I'm always refining my thoughts and ideas.
+
+✉️ If you have thoughts or feedback, feel free to write to me at buriedsecretspodcast@gmail.com.
+
 
 <strong>Recently updated notes</strong>
 
