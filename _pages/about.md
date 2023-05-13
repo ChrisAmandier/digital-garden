@@ -29,8 +29,11 @@ I could have launched this digital garden using Obsidian Publish, but that costs
 Instead, I went with a more manual approach:
 
 1) I made a folder in my Obsidian vault called "evergreen-to share"
+
 2) When I've cleaned a note up enough to feel good about sharing them, I move the markdown file there.
+
 3) I sort that folder by date modified, identify which notes I've modified since the last update, and then copy them into the local github folder.
+
 4) I update the garden using the github desktop app.
 
 ### Technical information
