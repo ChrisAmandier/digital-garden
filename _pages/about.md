@@ -11,7 +11,7 @@ As a researcher, I use the [zettlekasten method](https://en.wikipedia.org/wiki/Z
 
 I keep my personal knowledge database in [Obsidian](https://obsidian.md), a free notetaking software that works from locally-stored markdown files, which means that your notes aren't locked into proprietary software and you can take 'em with you if you ever decide to leave. If you're looking to build a second brain, Obsidian is a great place to do that.
 
-I've been following zettlekasten practices since September 2022, though I often find myself slacking off. 
+I've been following zettlekasten practices since August 2022, though I often find myself slacking off. 
 
 For zettlekasten, you're supposed to put concepts into your own words and synthesize your thoughts based on what you've read. That's the real secret sauce of the method. By the time you're done taking notes, you've already done the research and a lot of the writing for whatever you create, be they blog posts, articles, podcast episodes, or books.
 
