@@ -126,3 +126,4 @@ _This article doesn't link to sources as comprehensively as usual, because I wro
 [[Johannes Kelpius]]
 [[alchemy]]
 [[Rosicrucianism]]
+[[occult]]
