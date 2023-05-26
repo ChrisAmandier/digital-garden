@@ -5,7 +5,7 @@ See also:
 [[The Artist's Way by Julia Cameron]]
 [[automatic drawing]]
 [[music]]
-[[artists]]
+[[artist]]
 [[art]]
 [[art and creativity]]
 [[art and the creative process is like dowsing]]

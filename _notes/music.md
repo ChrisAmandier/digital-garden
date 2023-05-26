@@ -2,7 +2,7 @@
 
 Related:
 - [[Creativity]]
-- [[artists]]
+- [[artist]]
 - [[art and creativity]]
 - [[electronic music]]
 - [[classical music]]

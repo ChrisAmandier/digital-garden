@@ -1,0 +1,1 @@
+The brand name for Robert Monroe's version of [[binaural beats]]; [wiki explains them in more detail](https://en.wikipedia.org/wiki/Robert_Monroe#Hemi-Sync). They feature heavily in the [[Gateway Tapes and Experience]]

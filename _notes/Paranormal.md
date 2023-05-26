@@ -4,7 +4,7 @@
 Related:
 [[Paranormal Investigation]]
 [[Haunted Places]]
-[[Poltergeist]]
+[[poltergeist]]
 [[The Void Looks Back]]
 [[Paranormal Resources]]
 [[occult]]

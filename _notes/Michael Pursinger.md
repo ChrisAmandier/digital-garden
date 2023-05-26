@@ -1,4 +1,6 @@
-https://en.m.wikipedia.org/wiki/Michael_Persinger
+[[Topic]]; see backlinks
+
+[wiki link for more info](https://en.m.wikipedia.org/wiki/Michael_Persinger)
 
 [[Michael Pursinger wrote about humans and the electromagnetic field]]
 

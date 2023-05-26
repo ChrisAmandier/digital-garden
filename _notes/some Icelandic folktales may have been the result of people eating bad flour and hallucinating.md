@@ -5,5 +5,5 @@ This recalls the theory about the [[Salem witch trial]]s being influenced by [[e
 According to [[Icelandic Folk Legends by Alda Sigmundsdottir]]:
 > Some of them may also seem disjointed and strange – particularly the story “Þorgeir’s Bull,” which can only be described as extraordinarily weird. I have even wondered sometimes if the people who made up that story were on something. I mentioned this to my husband, who told me that reports exist about rotten flour or meal having been imported to Iceland, and when people ate it, they started hallucinating. I can’t help but think that this might apply to that story.
 
-[[psychadelics]] [[hallucinogens]]
+[[psychedelics]] [[hallucinogens]]
 

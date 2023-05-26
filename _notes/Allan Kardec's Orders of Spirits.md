@@ -105,6 +105,6 @@ And that's why it takes me so long to read things—or at least things with lots
 In speaking of random trivia, I could have *sworn* that Allan Kardec was an extremely minor side character in a queer historical paranormal/horror romance novel I've read, but I can't for the life of me remember which one (and yes, I've already tried full-text searches of the books I thought it was). So if anyone has that intel, I'm all ears.
 
 
-[[ghosts]] [[types of ghosts]] [[Poltergeist]] [[Allan Kardec]] [[spiritualism and spiritism]] [[Victorian]] 
+[[ghosts]] [[types of ghosts]] [[poltergeist]] [[Allan Kardec]] [[spiritualism and spiritism]] [[Victorian]] 
 [[angels]] [[ufos have played the role of angels, saving people]]
 [[goblins]] [[gnomes]] [[will o the wisp]] [[genies]]
