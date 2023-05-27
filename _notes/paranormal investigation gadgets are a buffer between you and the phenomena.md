@@ -1,4 +1,4 @@
-Jayson Shenk talks about this about 1:11:00 into [this episode](https://www.youtube.com/live/3HLjt8NwAmM?feature=share) of [[The Invisible Night School]]
+[Jayson](https://synoisia.blogspot.com) talks about this about 1:11:00 into [this episode](https://www.youtube.com/live/3HLjt8NwAmM?feature=share) of [[The Invisible Night School]]
 
 it can be helpful to have a buffer between you and [[Paranormal]] phenomena, even from a health perspective. he compares it to adding a capacitor or resistor to a circuit.
 
