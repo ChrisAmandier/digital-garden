@@ -2,7 +2,7 @@ https://chant.codes/
 
 This is a website created by Garrett Kelly of [[Liminal Earth]]
 
-It's very cool and seems like it has some interesting potential applications for [[Paranormal Investigation]] and [[parapsychology]] [[experiment]]s. Real [[estes method]] vibes.
+It's very cool and seems like it has some interesting potential applications for [[Paranormal Investigation]] and [[parapsychology]] [[experiment]]s. Real [[Estes Method]] vibes.
 
 From mastodon:
 >@garrett
