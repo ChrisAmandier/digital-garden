@@ -9,3 +9,6 @@ Related:
 [[spiritualism and spiritism]]
 [[history]]
 [[historical figures]]
+[[Creativity]]
+[[art]]
+[[artist]]

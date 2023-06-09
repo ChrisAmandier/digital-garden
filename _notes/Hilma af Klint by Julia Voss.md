@@ -23,4 +23,4 @@ books and essays mentioned in the text:
 - Sir Henry Yule wrote a book that mentioned [[Georgiana Houghton]]
 - Madame Blavatsky mentioned Yule's mentiom of [[Georgiana Houghton]] in *Isis Unveiled*
 
-[[Hilma af Klint]]
+[[Hilma af Klint]] [[art]] [[artist]] [[Creativity]] [[art and creativity]]

@@ -9,4 +9,7 @@ Related:
 - [[paranormal art]]
 - [[paranormal sound]]
 - [[Dionisaf]]
-- 
+- [[Creativity]]
+- [[art]]
+- [[artist]]
+- [[nostalgia]]

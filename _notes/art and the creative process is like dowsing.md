@@ -2,4 +2,4 @@ I really enjoyed this episode of The Invisible night school that had Jayson Shen
 
 It's about [57 mins into the video](https://www.youtube.com/live/f78IRxqA8FU?feature=share)
 
-[[art and creativity]] [[Creativity]] [[dowsing]] [[psychic]] [[paranormal art]]
+[[art and creativity]] [[Creativity]] [[dowsing]] [[psychic]] [[paranormal art]] [[art]]
