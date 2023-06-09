@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# Welcome to my digital garden! 🍄👻🛸🎨💾
+# Welcome to my digital garden! 🍄👻🛸
 
 
 
