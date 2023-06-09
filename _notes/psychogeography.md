@@ -5,3 +5,5 @@ Related:
 [[Mark Fisher]]
 [[derive]]
 [[Guy Debord]]
+[[geomagnetic]]
+[[ley lines]]

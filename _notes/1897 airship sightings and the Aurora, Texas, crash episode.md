@@ -1,3 +1,5 @@
+https://www.buriedsecretspodcast.com/a-ufo-crash-in-aurora-texas/
+
 Related: [[1897 UFO Flap in North Texas]]
 
 ## A UFO crash in Aurora, Texas
