@@ -10,4 +10,4 @@ Then he woke up and found that he held a [[bronze]] [[egg]]like object in his ha
 
 He gave it to [[Uri Geller]] later on, saying he thought it could be a ticket to another planet and he doesn't want it.
 
-[[Haunted Hotel]] [[egg lore]] 
+[[Haunted Hotel]] [[egg lore]] [[history]]

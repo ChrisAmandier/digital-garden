@@ -42,3 +42,4 @@ from [[Passport to Magonia by Jacques Vallee]] (there are way more reports, this
 > Captain Hooton adds that he could discover no bell or bell rope about the ship and was greatly shocked by this detail, since he thought "every well regulated air locomotive should have one." He left a detailed drawing of the machine.
 
 
+[[history]] - [[UFO]] - [[steampunk]]

@@ -10,4 +10,4 @@ from [[Passport to Magonia by Jacques Vallee]]:
 > It is unfortunate that Paddy did not save this valuable evidence for the benefit of the U.S. Department of Health, Education, and Welfare (Food and Drug Lab.). Perhaps they would have explained this miracle of the multiplication of the oatmeal, along with other peculiar properties of fairy food; for it is well known in Ireland that if you are taken away by the fairies, you must never taste food in their palace. Otherwise, you never come back; you become one of them.
 
 
-[[fae]] - [[ufos, the fae, and imagination]] - [[ufo food]] - [[fae gifting]] 
+[[fae]] - [[ufos, the fae, and imagination]] - [[ufo food]] - [[fae gifting]] - [[history]]

@@ -7,3 +7,5 @@ See:
 Related:
 [[automatic drawing]]
 [[spiritualism and spiritism]]
+[[history]]
+[[historical figures]]

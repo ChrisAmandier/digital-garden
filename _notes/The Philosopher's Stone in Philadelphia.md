@@ -49,3 +49,4 @@ But whether or not the tale of Kelpius' magical stone is true, it's an interesti
 [[alchemy]]
 [[Rosicrucianism]]
 [[ouroboros]]
+[[history]]

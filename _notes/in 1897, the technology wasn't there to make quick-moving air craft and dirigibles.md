@@ -7,4 +7,4 @@ per [[Operation Trojan Horse by John Keel]]:
 
 > Newspaper accounts of these aerial objects were frequent and widespread during the last three decades of the nineteenth century. But the dam really broke in 1896-97 when giant cigars were reportedly viewed by thousands of people as they flew over many of the major cities on earth. Leading newspapers of the day carried extensive descriptions and drawings of them. Their mysterious journeys created the first important UFO flap and inspired H. G. Wells to write his classic novel, The War of the Worlds.
 
-[[1897 airship flap]]  [[airships]]
+[[1897 airship flap]]  [[airships]] [[history]] [[steampunk]]

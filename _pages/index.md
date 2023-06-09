@@ -5,12 +5,12 @@ id: home
 permalink: /
 ---
 
-# Welcome to my digital garden! 🌱
+# Welcome to my digital garden! 🍄👻🛸🪦🎨
 
 
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
- <strong> This is the digital garden of Chris Amandier.</strong> I'm a paranormal researcher, writer, artist, and the host of <a href="https://www.buriedsecretspodcast.com">Buried Secrets Podcast</a>. I write about paranormal and occult weirdness, history, tech, creativity, and nostalgia.
+ <strong> This is the digital garden of Chris Amandier.</strong> I'm a paranormal researcher, writer, artist, and the host of <a href="https://www.buriedsecretspodcast.com">Buried Secrets Podcast</a>. I write about <a class="internal-link" href="/paranormal">paranormal</a> and <a class="internal-link" href="/occult">occult</a> weirdness, <a class="internal-link" href="/paranormal">paranormal</a> and <a class="internal-link" href="/history">history</a>, <a class="internal-link" href="/tech">tech</a>, <a class="internal-link" href="/creativity">creativity</a>, and <a class="internal-link" href="/nostalgia">nostalgia</a>.
 </p>
 
 <p>
@@ -27,6 +27,8 @@ If you want my more refined (though still ever-evolving) thoughts, check out my 
 
 ✉️ If you have thoughts or feedback, feel free to write to me at buriedsecretspodcast@gmail.com.
 
+## Browse <a class="internal-link" href="/topic">topics</a>
+<a class="internal-link" href="/paranormal">paranormal</a> - <a class="internal-link" href="/tech">tech</a> - <a class="internal-link" href="/creativity">creativity</a> - <a class="internal-link" href="/ghost">ghost</a> - <a class="internal-link" href="/nostalgia">nostalgia</a> - <a class="internal-link" href="/occult">occult</a> - <a class="internal-link" href="/liminality">liminality</a> - <a class="internal-link" href="/ufo">ufo</a> - <a class="internal-link" href="/folklore">folklore</a> - <a class="internal-link" href="/fae">fae</a> - <a class="internal-link" href="/fae">fae</a> - <a class="internal-link" href="/digital-gardens">digital gardens</a> - <a class="internal-link" href="/zettlekasten">zettlekasten</a> - <a class="internal-link" href="/urban-legend">urban legend</a> - <a class="internal-link" href="/history">history</a>
 
 <strong>Recently updated notes</strong>
 

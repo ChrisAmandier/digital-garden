@@ -21,5 +21,5 @@ from [[Passport to Magonia by Jacques Vallee]]:
 
 
 
-[[fae food]] - [[fae gifts]] - [[ufo food]] - [[UFO]] - [[fae gifting]] - [[alien gifting]]
+[[fae food]] - [[fae gifts]] - [[ufo food]] - [[UFO]] - [[fae gifting]] - [[alien gifting]] - [[history]]
 

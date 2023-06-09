@@ -18,4 +18,4 @@ Here's an egg-shaped UFO sighting from [[Passport to Magonia by Jacques Vallee]]
 see also: [[egg shaped ghost]], [[egg shaped object or UFO in 1964]]  [[physical reactions to paranormal encounters]]
 
 [[UFO]] - [[paralysis during paranormal or ufo encounters]] - tangentially related to [[sleep paralysis]] - [[hypnosis]]
-[[egg shaped UFO]]
+[[egg shaped UFO]] [[history]]

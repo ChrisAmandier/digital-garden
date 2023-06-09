@@ -1,1 +1,1 @@
-[[topic]]; see backlinks.
+[[Topic]]; see backlinks.

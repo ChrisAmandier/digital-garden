@@ -127,3 +127,4 @@ _This article doesn't link to sources as comprehensively as usual, because I wro
 [[alchemy]]
 [[Rosicrucianism]]
 [[occult]]
+[[history]]

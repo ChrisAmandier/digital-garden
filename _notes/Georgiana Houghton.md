@@ -16,3 +16,5 @@ from [[Hilma af Klint by Julia Voss]]:
 
 [[spiritualism and spiritism]]
 [[automatic drawing]]
+[[history]]
+[[historical figures]]

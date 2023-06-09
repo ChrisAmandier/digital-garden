@@ -5,3 +5,4 @@
 [[The Memex Method]]
 [[daily blog post]]
 [[you should blog daily]]
+[[history]]

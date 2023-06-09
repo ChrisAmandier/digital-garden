@@ -1,1 +1,1 @@
-This is a subject page with many backlinks.
+[[Topic]]; see backlinks.

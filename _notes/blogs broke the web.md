@@ -2,3 +2,5 @@
 
 [[digital gardens]]
 [[old tech]]
+[[tech]]
+[[nostalgia]]

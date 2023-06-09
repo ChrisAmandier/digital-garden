@@ -24,4 +24,4 @@
 > I have included the two Icelandic special characters Þ and Ð (or ð). They are pronounced, respectively, as a voiced “th” sound (as in “thistle”) and a silent “th” sound (as in “there”). 
 
 [[Iceland]] [[Icelandic folklore]] [[folklore]] [[fae folklore]] [[fairy tale]] [[elves]] [[Alda Sigmundsdottir]]
-[[urban legend]]
+[[urban legend]] [[history]]

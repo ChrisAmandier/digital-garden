@@ -6,5 +6,5 @@ from [[Passport to Magonia by Jacques Vallee]]:
 >
 > The next day, a Montsoreau farmer, Alain Rouillet, reported that a nine-square-yard area of his wheat field had been flattened and covered with a yellowish, oily substance. Further investigation disclosed additional details on the identity of the witnesses and substantiated the idea that a peculiar object had indeed landed. Lacoste is a photographer in Saumur (unfortunately, he did not carry a camera with him at the time). He described the light given off by the sphere as being so intense that it lit up the whole countryside. The sphere hovered, he said, for a few seconds, then it maneuvered close to the ground. The witnesses felt sure it was a guided military gadget and walked to a distance of about four hundred yards from the object, which went away and was lost to sight behind some woods. The whole sighting had lasted four minutes.
 
-[[UFO]] [[faerie ring]] [[magic circle]]
+[[UFO]] [[faerie ring]] [[magic circle]] [[history]]
 

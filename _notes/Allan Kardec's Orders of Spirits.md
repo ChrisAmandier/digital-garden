@@ -108,3 +108,4 @@ In speaking of random trivia, I could have *sworn* that Allan Kardec was an extr
 [[ghosts]] [[types of ghosts]] [[poltergeist]] [[Allan Kardec]] [[spiritualism and spiritism]] [[Victorian]] 
 [[angels]] [[ufos have played the role of angels, saving people]]
 [[goblins]] [[gnomes]] [[will o the wisp]] [[genies]]
+[[history]]

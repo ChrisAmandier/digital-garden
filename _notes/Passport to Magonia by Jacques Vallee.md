@@ -41,4 +41,4 @@
 - [[a TV glitches out when two young people in TX encounter a UFO]]
 - [[Van Cortlandt Park UFO sighting, Bronx, NY]]
 
-[[UFO]] [[Takeaways]] [[Jacques Vallee]] [[fae]]
+[[UFO]] [[Takeaways]] [[Jacques Vallee]] [[fae]] [[history]]
