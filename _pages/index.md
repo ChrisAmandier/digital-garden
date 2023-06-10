@@ -43,6 +43,7 @@ If you want my more refined (though still ever-evolving) thoughts, check out my 
   {% endfor %}
 </ul>
 
+## Graph view
 <p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>
 
 {% include notes_graph.html %}
