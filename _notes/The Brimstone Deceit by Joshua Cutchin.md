@@ -1,0 +1,8 @@
+- [[levitating eggs and foul smells]]
+- [[the Eggman]]
+- [[theories behind paranormal rotten egg smells]]
+- [[Yowie with an egg shaped head]]
+- [[almond smell in Cape Cod sighting]]
+- [[nitrobenzene creates an almond scent]]
+- [[Trigeminal stimulation and what paranormal smells do to people]]
+- 

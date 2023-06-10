@@ -7,4 +7,4 @@
 - [[to be right, you have to be willing to be wrong]]
 
 
-[[remote viewing]] [[psychic]]
+[[remote viewing]] [[psychic]] [[Russell Targ]]
