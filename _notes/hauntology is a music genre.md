@@ -11,4 +11,5 @@ Seems like it has ties to [[Mark Fisher]] and [[Burial musician]]
 [More info on wiki](https://en.wikipedia.org/wiki/Hauntology_(music)), which also talks about how it ifnluenced a genre called [[hypnogogic pop]], which also feels real paranormal. Also influenced [[chillwave]]
 
 See also:
+[[Ghost Box record label]]
 [[hauntology and queerness]]

@@ -1,0 +1,41 @@
+[[nostalgia]] [[daily blog post]] [[paranormal gear]] [[tech]]
+
+https://www.buriedsecretspodcast.com/is-the-panasonic-rr-dr60-worth-it/
+
+Musings on an expensive and hyped piece of tech.
+
+In [a 2009 experiment]( http://significantobjects.com), cheap thrift store objects were listed on eBay, accompanied by product descriptions by a star-studded cast of writers, including Meg Cabot, William Gibson, Ben Greenman, Sheila Heti, Neil LaBute, Jonathan Lethem, Tom McCarthy, Lydia Millet, Jenny Offill, Bruce Sterling, Scarlett Thomas, and Colson Whitehead. The 200 objects, purchased for $250 total, sold for nearly $8,000 total because of the power of the narratives that were created for each item. 
+
+I think about this study often, especially when it comes to sought-after paranormal devices.
+
+If you look up the Panasonic RR-DR60 on eBay, you’ll be greeted with listings of the decades-old device priced at an [eyewatering $4,000-$5,000](https://www.ebay.com/itm/204135153389). Similar vintage recorders, like the Panasonic RR-QR240 and Panasonic RR-QR80, go for a steep $500. So, what’s the deal? Are people just particularly nostalgic for old Panasonic recorders from the 1990s?
+
+If you’re into the paranormal, you already know the answer to this. Within the ghost hunting community, the Panasonic DR60 is famous for supposedly being the crème de la crème of EVP ([electronic voice phenomenon](https://en.wikipedia.org/wiki/Electronic_voice_phenomenon)) recorders. Supposedly this recorder can capture EVPs better than any other. However, plenty of people who have used the device have [claimed that the device adds weird sound artifacts to any recording](https://paranormalnewengland.com/2014/12/18/panasonic-rr-dr60-ic-recorder-evp-legend-longer/) (that’s why the device was discontinued, after all). Other folks have said that most of the recordings [turn out pretty normal, but that they do get a higher than average amount of EVP’s](https://huffparanormal.com/2017/09/the-panasonic-rr-dr60-is-the-best-evp-recorder-ever-made-with-a-hitch/).
+I first learned about the Panasonic DR60 from the podcast Astonishing Legends, which published an episode in 2018 in which they brought the mythical device to be equally mythical [Sallie House](https://www.astonishinglegends.com/al-podcasts/2018/11/11/ep-125-the-sallie-house-ghost-in-the-machine-part-3) in Atchinson, Kansas. In the episode, they play what seems like a possible EVP; it certainly sounds like a terrifying otherworldly being is screaming at them. But it could also be a glitch; I couldn’t say.
+
+I have never used this device, but I’m interested in why this recorder is so popular.
+
+Part of it, I think, is that people want communication from entities, and this device seems to deliver EVPs. Never mind that it seems to add weird audio distortions to many recordings.
+
+Another aspect might be the legends that have grown up around the recorder, à la that 2009 eBay experiment. If enough people are told that something has a particular power and backstory, then a certain number of those people will believe it. Especially if the people saying it are on TV. 
+I also think that nostalgia might be at work. Many of the devices that we use to investigate the paranormal happen to be iconic technology connected to the 1980s and the 1990s. [I’ve written about how I think that nostalgia has a large influence on the devices we choose to use to investigate the paranormal]( https://www.buriedsecretspodcast.com/tag/nostalgia/), such as [instant cameras]( https://www.buriedsecretspodcast.com/taking-pictures-of-ghosts-polaroids-instant-photography-and-paranormal-investigation/) and [spirit boxes](https://www.buriedsecretspodcast.com/spirit-boxes-radios-and-analog-ghost-hunting/) (which have their origin in 1990s RadioShack radios). 
+
+As someone who was born in the 1980s, I certainly have plenty of that nostalgia myself, and it’s easy for me to idealize old tech and believe that it was better in some ways, or at least more charming. (You’ll often catch me raving about my 2000s-era PowerBook G4, for example. Or walking around Queens taking pictures with one of my two instant cameras. I’m not immune to nostalgia, for sure.)
+
+The Panasonic DR60 is interesting, because despite being from the 1990s, it doesn’t use tape; it’s a [digital recorder](https://www.radiomuseum.org/r/panasonic_rr_dr_60.html). However, it also doesn’t connect to computers via USB. My understanding is that in order to get recordings off of it, you have to play the recording out loud and then record that audio. 
+
+The DR60 seems to be a piece of in-between technology, much like the [Sony Mavica (a 90s digital camera that used floppy disks, and later CDs, for storage)](https://www.youtube.com/watch?v=SPadFkDI3CI) or [MiniDisk player]( https://www.youtube.com/watch?v=CCK89V4NpJY). (Yes, both of those links go to YouTube videos about the history of those two obsolete devices, and yes, I watch these videos about old tech to relax. The MiniDisk is another thing that I feel nostalgic about, come to think of it.)
+I have a real soft spot for mostly useless in-between technology, because it’s typically innovative but also not quite innovative enough. Minidisk tech was a great idea that didn’t quite work for most consumers and was rendered obsolete by mp3 players. The DR60 was discontinued because it led to low-quality recordings. 
+
+You know, I’d find the DR60 quaint if it didn’t piss me off so much.
+Despite enjoying tech, for a long time, I mostly eschewed paranormal gadgets (aside from my spirit box and a digital recorder) because of their high cost. I’m of the opinion that you can use anything to investigate the paranormal, from your own senses to a [paper fortune teller]( https://en.wikipedia.org/wiki/Paper_fortune_teller), set of dice, deck of tarot cards, or a voice recorder app on your phone. 
+
+I despise the narrative that a person needs to spend a ton of money to investigate the paranormal, which is why when I fleshed out [my version of the Solo Estes Method](https://www.buriedsecretspodcast.com/solo-estes-method-ghost-hunt-by-yourself/), I focused on finding affordable gear alternatives wherever possible. That’s also why I’m now on such a DIY gadget kick—I want to find ways to create DIY versions of devices that would otherwise be inaccessible to most people (including me).
+As I did the research for this post, I noticed that the price of the DR-60 as reported in articles skyrocketed year over year. In the late 90s, [the DR-60 cost about $20]( https://paranormalnewengland.com/2014/12/18/panasonic-rr-dr60-ic-recorder-evp-legend-longer/). In 2014, it apparently [cost $300-400]( https://paranormalnewengland.com/2014/12/18/panasonic-rr-dr60-ic-recorder-evp-legend-longer/). In 2017, it [cost about $1,200-1,400](https://huffparanormal.com/2017/09/the-panasonic-rr-dr60-is-the-best-evp-recorder-ever-made-with-a-hitch/) . And as I mentioned, a lot of the eBay listings are right around the $4,000-5,000 mark.
+
+EBay is full of listings with language urging customers to act fast or they’ll miss out on this rare opportunity to buy a genuine DR60. One listing for a Panasonic RR-QR80 says things like “If you are using a Panasonic RR-DR60 by itself without a Panasonic RR-QR80 for EVP, you are only getting part of the picture. Professional investigators have learned that they need to use both an RR-DR60 and RR-QR80 at the same time.” That absurd, high-pressure sales type language is sleezy, ultra-capitalist drivel, and is a symptom of the bizarre hype around the device.
+
+I’m not trying to call anyone out in this post. I can’t really fault the people who use, buy, and sell these devices, and I’m not interested in doing so. I also don’t care whether the DR60 “works” as an EVP recorder or is just recording creepy-sounding glitches. It seems like a case where both can be true, depending on the circumstance. But I do think it’s worth thinking about why some devices get so much hype, and why there’s such an eagerness to put so much stock in a particular piece of tech over cheaper, easier-to-find alternatives.
+
+
+[[Panasonic DR-60]] [[Panasonic DR-60 convo on Invisible Night School]]

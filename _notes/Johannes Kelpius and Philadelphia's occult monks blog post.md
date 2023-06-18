@@ -1,5 +1,4 @@
-
-[[daily blog post]]
+[[daily blog post]]: https://www.buriedsecretspodcast.com/an-occult-doomsday-cult-in-1690s-philly/
 
 In the 1690s, a Transylvanian-born mystic, occultist, musician, and writer named Johannes Kelpius led a group of forty Rosicrucian monks to colonial Philadelphia await the end of the world.
 

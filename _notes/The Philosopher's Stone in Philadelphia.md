@@ -1,5 +1,4 @@
-[[daily blog post]]
-
+[[daily blog post]]: https://www.buriedsecretspodcast.com/the-philosophers-stone-in-philadelphia/
 
 https://www.buriedsecretspodcast.com/johannes-kelpius/
 

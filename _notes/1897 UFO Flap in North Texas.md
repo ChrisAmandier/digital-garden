@@ -1,3 +1,5 @@
+https://www.buriedsecretspodcast.com/the-1897-ufo-flap-in-north-texas/
+
 Related: [[1897 airship sightings and the Aurora, Texas, crash episode]]
 
 [Link to the blog post version of this](https://www.buriedsecretspodcast.com/the-1897-ufo-flap-in-north-texas/)

@@ -1,3 +1,5 @@
+https://www.buriedsecretspodcast.com/a-meandering-week-learning-things-may-22-2021/
+
 # A meandering week (Learning Things: May 22, 2021)
 
 This past week has felt especially meandering to me. Time seems slightly twisty; I've found myself repeatedly writing the date as either March 2023 or May 2025, so I'm not sure what that's about. I suppose I should just be grateful that my brain finally feels like it's broken out of March 2020, which it was stuck in for a couple years. But I really am baffled by my brain's insistence that it's 2025. I don't think I've ever gotten my brain stuck in the future like that before.

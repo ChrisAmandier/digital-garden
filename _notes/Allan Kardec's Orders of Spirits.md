@@ -1,3 +1,5 @@
+https://www.buriedsecretspodcast.com/fluffy-spirits-allan-kardecs-orders-of-spirits/
+
 # Fluffy Ghosts: Allan Kardec's Orders of Spirits
 
 As often happens, last weekend I found myself flipping through an old publication and I stumbled across something interesting. In this case, the periodical was [*Revue Spirite*, which is in French](https://archive.org/details/AllanKardec-RevueSpirite1858-1869/page/n40/mode/1up) and was created by the founder of Spiritism, Allan Kardec, in 1858. (It still exists today [as *Revue Spirite: Journal d'Etudes Psychologiques*, the official publication of the International Spiritist Council](https://cei-spiritistcouncil.com/10751/?lang=en)). The bit that snagged my interest begins on page 41 of the 4,700+ page document: a classification of different types of spirits.
