@@ -1,0 +1,15 @@
+Worldview defenses are the things that we use to protect ourselves from [[existential dread]]. It could be: relationships, in-group status (nationalism, alma maters, sports team fans, etc). And probably also [[nostalgia]], which might indicate that while "nostalgia was once regarded as a medical disease and a psychiatric disorder (Sedikides et al., 2004), this recent perspective indicates that nostalgia is a psychological strength, not a liability or pathology"
+
+See also: [[mortality salience hypothesis]] [[nostalgia as a buffer blog post]] [[terror management theory (TMT)]] [[nostalgia bolsters our self-concept]]
+
+from this article
+Jacob Juhl, Clay Routledge, Jamie Arndt, Constantine Sedikides, Tim Wildschut, Fighting the future with the past: Nostalgia buffers existential threat, Journal of Research in Personality, Volume 44, Issue 3, 2010, Pages 309-314, ISSN 0092-6566,
+https://doi.org/10.1016/j.jrp.2010.02.006.
+(https://www.sciencedirect.com/science/article/pii/S0092656610000310)
+
+RE: the [[mortality salience hypothesis]]:
+> the theory predicts that, when reminded of death, people will be more positive to that which supports their beliefs and identifications, and will be less positive or more negative toward that which threatens them. These effects, often referred to as _[[worldview defenses]]_ in the terror management literature, have been found with respect to a variety of domains.
+> 
+> For example, participants reminded of mortality (relative to a control topic) respond less favorably to essays criticizing their nationalistic and university identifications, both in their evaluations of the authors as well as in their willingness to engage in greater physical aggression towards them (McGregor et al., 1998; for a review see Greenberg et al., 2008). Further research has shown that these responses to MS serve to prevent death awareness from turning into death anxiety. Specifically, participants who received a placebo purported to avert the experience of future anxiety did not show the effects of MS described above (Greenberg et al., 2003). In sum, when individuals are reminded that they are mortal and thus transient entities, they cling to the relationships, groups, and beliefs that imbue their lives with purpose, stability and permanence; and these responses prevent death cognition from turning into death anxiety.
+>
+> Recently, it was postulated that [[nostalgia]], a sentimental longing for the past, serves such an existential function (Routledge and Arndt, 2005, Sedikides et al., 2004). Although nostalgia was once regarded as a medical disease and a psychiatric disorder (Sedikides et al., 2004), this recent perspective indicates that nostalgia is a psychological strength, not a liability or pathology (Sedikides, Wildschut, Arndt, & Routledge, 2008). From this perspective, nostalgia is a self-relevant, but highly social, and generally positive emotional reflection on the past that fulfils a number of psychological functions.

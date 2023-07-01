@@ -4,5 +4,5 @@ A mid-11th century [[occult]] text translated from Arabic. It combines info from
 
 [More info on wiki](https://en.wikipedia.org/wiki/Picatrix)
 
-[[To read]]
+[[to read]]
 
