@@ -1,7 +1,7 @@
 The mortality salience hypothesis is that whatever we use to keep ourselves from falling into a pit of existential dread becomes more important the more we're reminded of our own mortality.
 
 [[terror management theory (TMT)]]
-[[nostalgia as a buffer blog post]]
+[[nostalgia and the fear of death blog post]]
 [[psychology]] [[nostalgia]]
 
 from this article

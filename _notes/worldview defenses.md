@@ -1,6 +1,6 @@
 Worldview defenses are the things that we use to protect ourselves from [[existential dread]]. It could be: relationships, in-group status (nationalism, alma maters, sports team fans, etc). And probably also [[nostalgia]], which might indicate that while "nostalgia was once regarded as a medical disease and a psychiatric disorder (Sedikides et al., 2004), this recent perspective indicates that nostalgia is a psychological strength, not a liability or pathology"
 
-See also: [[mortality salience hypothesis]] [[nostalgia as a buffer blog post]] [[terror management theory (TMT)]] [[nostalgia bolsters our self-concept]]
+See also: [[mortality salience hypothesis]] [[nostalgia and the fear of death blog post]] [[terror management theory (TMT)]] [[nostalgia bolsters our self-concept]]
 
 from this article
 Jacob Juhl, Clay Routledge, Jamie Arndt, Constantine Sedikides, Tim Wildschut, Fighting the future with the past: Nostalgia buffers existential threat, Journal of Research in Personality, Volume 44, Issue 3, 2010, Pages 309-314, ISSN 0092-6566,
