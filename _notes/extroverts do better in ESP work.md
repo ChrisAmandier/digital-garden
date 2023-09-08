@@ -9,5 +9,5 @@ This material may be protected by copyright.
 Read this book on Scribd: https://www.scribd.com/book/637432024 
 
  
-[[psi]] [[esp]] [[extroverts]] [[introverts]] [[remote viewing]] [[psychic]]
+[[psi]] [[ESP]] [[extroverts]] [[introverts]] [[remote viewing]] [[psychic]]
 

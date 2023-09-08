@@ -17,4 +17,4 @@ from [[Passport to Magonia by Jacques Vallee]]:
 
 
 
-[[faerie ring]] [[magic circle]] [[paranormal bird]]
+[[faerie ring]] [[magic circle]] [[paranormal bird]] [[Australia]]

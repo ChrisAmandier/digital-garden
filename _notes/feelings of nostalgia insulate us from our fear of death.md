@@ -3,7 +3,7 @@ Feelings of nostalgia insulate us from our fear of death; study info below.
 That means that if we're feeling nostalgic while, say, ghost hunting, it can help us stay grounded.
 
 
-See also: [[mortality salience hypothesis]] [[nostalgia as a buffer blog post]] [[terror management theory (TMT)]]
+See also: [[mortality salience hypothesis]] [[nostalgia and the fear of death blog post]] [[terror management theory (TMT)]]
 
 from this article
 Jacob Juhl, Clay Routledge, Jamie Arndt, Constantine Sedikides, Tim Wildschut, Fighting the future with the past: Nostalgia buffers existential threat, Journal of Research in Personality, Volume 44, Issue 3, 2010, Pages 309-314, ISSN 0092-6566,

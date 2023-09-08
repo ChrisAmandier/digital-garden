@@ -2,4 +2,4 @@ I read [a great Cory Doctorow article](https://doctorow.medium.com/the-memex-met
 
 
 
-[[cory doctorow]] [[zettlekasten]] [[Creativity]] [[share your work]]
+[[Cory Doctorow]] [[zettlekasten]] [[Creativity]] [[share your work]]
